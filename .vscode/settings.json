@@ -1,4 +1,5 @@
 {
     "go.goroot": "/Users/renzhang/.gvm/gos/go1.20",
-    "DevChat.PythonPath": "/usr/bin/python3"
+    "DevChat.PythonPath": "/usr/bin/python3",
+    "DevChat.DevChatPath": "/Users/renzhang/.chat/mamba/envs/devchat/bin/devchat"
 }
